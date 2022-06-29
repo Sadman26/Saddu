@@ -6,6 +6,8 @@ void show()
 }
 int main()
 {
+    int x;
+    cin>>x;
     show();
     cout<<"Hello WOrld"<<endl;
     for (int i = 0; i < 5; i++)
